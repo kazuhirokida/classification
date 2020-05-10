@@ -1,0 +1,195 @@
+,Country,Classification,ISO Code
+0,Australia,Advanced Economies,AUS
+1,Austria,Advanced Economies,AUT
+2,Belgium,Advanced Economies,BEL
+3,Canada,Advanced Economies,CAN
+4,Cyprus,Advanced Economies,CYP
+5,Czech Republic,Advanced Economies,CZE
+6,Denmark,Advanced Economies,DNK
+7,Estonia,Advanced Economies,EST
+8,Finland,Advanced Economies,FIN
+9,France,Advanced Economies,FRA
+10,Germany,Advanced Economies,DEU
+11,Greece,Advanced Economies,GRC
+12,Hong Kong SAR,Advanced Economies,HKG
+13,Iceland,Advanced Economies,ISL
+14,Ireland,Advanced Economies,IRL
+15,Israel,Advanced Economies,ISR
+16,Italy,Advanced Economies,ITA
+17,Japan,Advanced Economies,JPN
+18,Korea,Advanced Economies,KOR
+19,Latvia,Advanced Economies,LVA
+20,Lithuania,Advanced Economies,LTU
+21,Luxembourg,Advanced Economies,LUX
+22,Macao SAR,Advanced Economies,MAC
+23,Malta,Advanced Economies,MLT
+24,Netherlands,Advanced Economies,NLD
+25,New Zealand,Advanced Economies,NZL
+26,Norway,Advanced Economies,NOR
+27,Portugal,Advanced Economies,PRT
+28,Puerto Rico,Advanced Economies,PRI
+29,San Marino,Advanced Economies,SMR
+30,Singapore,Advanced Economies,SGP
+31,Slovak Republic,Advanced Economies,SVK
+32,Slovenia,Advanced Economies,SVN
+33,Spain,Advanced Economies,ESP
+34,Sweden,Advanced Economies,SWE
+35,Switzerland,Advanced Economies,CHE
+36,Taiwan Province of China,Advanced Economies,TWN
+37,United Kingdom,Advanced Economies,GBR
+38,United States,Advanced Economies,USA
+39,Afghanistan,Emerging and Developing Economies,AFG
+40,Albania,Emerging and Developing Economies,ALB
+41,Algeria,Emerging and Developing Economies,DZA
+42,Angola,Emerging and Developing Economies,AGO
+43,Antigua and Barbuda,Emerging and Developing Economies,ATG
+44,Argentina,Emerging and Developing Economies,ARG
+45,Armenia,Emerging and Developing Economies,ARM
+46,Aruba,Emerging and Developing Economies,ABW
+47,Azerbaijan,Emerging and Developing Economies,AZE
+48,The Bahamas,Emerging and Developing Economies,BHS
+49,Bahrain,Emerging and Developing Economies,BHR
+50,Bangladesh,Emerging and Developing Economies,BGD
+51,Barbados,Emerging and Developing Economies,BRB
+52,Belarus,Emerging and Developing Economies,BLR
+53,Belize,Emerging and Developing Economies,BLZ
+54,Benin,Emerging and Developing Economies,BEN
+55,Bhutan,Emerging and Developing Economies,BTN
+56,Bolivia,Emerging and Developing Economies,BOL
+57,Bosnia and Herzegovina,Emerging and Developing Economies,BIH
+58,Botswana,Emerging and Developing Economies,BWA
+59,Brazil,Emerging and Developing Economies,BRA
+60,Brunei Darussalam,Emerging and Developing Economies,BRN
+61,Bulgaria,Emerging and Developing Economies,BGR
+62,Burkina Faso,Emerging and Developing Economies,BFA
+63,Burundi,Emerging and Developing Economies,BDI
+64,Cabo Verde,Emerging and Developing Economies,CPV
+65,Cambodia,Emerging and Developing Economies,KHM
+66,Cameroon,Emerging and Developing Economies,CMR
+67,Central African Republic,Emerging and Developing Economies,CAF
+68,Chad,Emerging and Developing Economies,TCD
+69,Chile,Emerging and Developing Economies,CHL
+70,China,Emerging and Developing Economies,CHN
+71,Colombia,Emerging and Developing Economies,COL
+72,Comoros,Emerging and Developing Economies,COM
+73,Democratic Republic of the Congo,Emerging and Developing Economies,COD
+74,Republic of Congo,Emerging and Developing Economies,COG
+75,Costa Rica,Emerging and Developing Economies,CRI
+76,Côte d'Ivoire,Emerging and Developing Economies,CIV
+77,Croatia,Emerging and Developing Economies,HRV
+78,Djibouti,Emerging and Developing Economies,DJI
+79,Dominica,Emerging and Developing Economies,DMA
+80,Dominican Republic,Emerging and Developing Economies,DOM
+81,Ecuador,Emerging and Developing Economies,ECU
+82,Egypt,Emerging and Developing Economies,EGY
+83,El Salvador,Emerging and Developing Economies,SLV
+84,Equatorial Guinea,Emerging and Developing Economies,GNQ
+85,Eritrea,Emerging and Developing Economies,ERI
+86,Eswatini,Emerging and Developing Economies,SWZ
+87,Ethiopia,Emerging and Developing Economies,ETH
+88,Fiji,Emerging and Developing Economies,FJI
+89,Gabon,Emerging and Developing Economies,GAB
+90,The Gambia,Emerging and Developing Economies,GMB
+91,Georgia,Emerging and Developing Economies,GEO
+92,Ghana,Emerging and Developing Economies,GHA
+93,Grenada,Emerging and Developing Economies,GRD
+94,Guatemala,Emerging and Developing Economies,GTM
+95,Guinea,Emerging and Developing Economies,GIN
+96,Guinea-Bissau,Emerging and Developing Economies,GNB
+97,Guyana,Emerging and Developing Economies,GUY
+98,Haiti,Emerging and Developing Economies,HTI
+99,Honduras,Emerging and Developing Economies,HND
+100,Hungary,Emerging and Developing Economies,HUN
+101,India,Emerging and Developing Economies,IND
+102,Indonesia,Emerging and Developing Economies,IDN
+103,Iran,Emerging and Developing Economies,IRN
+104,Iraq,Emerging and Developing Economies,IRQ
+105,Jamaica,Emerging and Developing Economies,JAM
+106,Jordan,Emerging and Developing Economies,JOR
+107,Kazakhstan,Emerging and Developing Economies,KAZ
+108,Kenya,Emerging and Developing Economies,KEN
+109,Kiribati,Emerging and Developing Economies,KIR
+110,Kosovo,Emerging and Developing Economies,UVK
+111,Kuwait,Emerging and Developing Economies,KWT
+112,Kyrgyz Republic,Emerging and Developing Economies,KGZ
+113,Lao P.D.R.,Emerging and Developing Economies,LAO
+114,Lebanon,Emerging and Developing Economies,LBN
+115,Lesotho,Emerging and Developing Economies,LSO
+116,Liberia,Emerging and Developing Economies,LBR
+117,Libya,Emerging and Developing Economies,LBY
+118,Madagascar,Emerging and Developing Economies,MDG
+119,Malawi,Emerging and Developing Economies,MWI
+120,Malaysia,Emerging and Developing Economies,MYS
+121,Maldives,Emerging and Developing Economies,MDV
+122,Mali,Emerging and Developing Economies,MLI
+123,Marshall Islands,Emerging and Developing Economies,MHL
+124,Mauritania,Emerging and Developing Economies,MRT
+125,Mauritius,Emerging and Developing Economies,MUS
+126,Mexico,Emerging and Developing Economies,MEX
+127,Micronesia,Emerging and Developing Economies,FSM
+128,Moldova,Emerging and Developing Economies,MDA
+129,Mongolia,Emerging and Developing Economies,MNG
+130,Montenegro,Emerging and Developing Economies,MNE
+131,Morocco,Emerging and Developing Economies,MAR
+132,Mozambique,Emerging and Developing Economies,MOZ
+133,Myanmar,Emerging and Developing Economies,MMR
+134,Namibia,Emerging and Developing Economies,NAM
+135,Nauru,Emerging and Developing Economies,NRU
+136,Nepal,Emerging and Developing Economies,NPL
+137,Nicaragua,Emerging and Developing Economies,NIC
+138,Niger,Emerging and Developing Economies,NER
+139,Nigeria,Emerging and Developing Economies,NGA
+140,North Macedonia,Emerging and Developing Economies,MKD
+141,Oman,Emerging and Developing Economies,OMN
+142,Pakistan,Emerging and Developing Economies,PAK
+143,Palau,Emerging and Developing Economies,PLW
+144,Panama,Emerging and Developing Economies,PAN
+145,Papua New Guinea,Emerging and Developing Economies,PNG
+146,Paraguay,Emerging and Developing Economies,PRY
+147,Peru,Emerging and Developing Economies,PER
+148,Philippines,Emerging and Developing Economies,PHL
+149,Poland,Emerging and Developing Economies,POL
+150,Qatar,Emerging and Developing Economies,QAT
+151,Romania,Emerging and Developing Economies,ROU
+152,Russia,Emerging and Developing Economies,RUS
+153,Rwanda,Emerging and Developing Economies,RWA
+154,Samoa,Emerging and Developing Economies,WSM
+155,São Tomé and Príncipe,Emerging and Developing Economies,STP
+156,Saudi Arabia,Emerging and Developing Economies,SAU
+157,Senegal,Emerging and Developing Economies,SEN
+158,Serbia,Emerging and Developing Economies,SRB
+159,Seychelles,Emerging and Developing Economies,SYC
+160,Sierra Leone,Emerging and Developing Economies,SLE
+161,Solomon Islands,Emerging and Developing Economies,SLB
+162,Somalia,Emerging and Developing Economies,SOM
+163,South Africa,Emerging and Developing Economies,ZAF
+164,South Sudan,Emerging and Developing Economies,SSD
+165,Sri Lanka,Emerging and Developing Economies,LKA
+166,St. Kitts and Nevis,Emerging and Developing Economies,KNA
+167,St. Lucia,Emerging and Developing Economies,LCA
+168,St. Vincent and the Grenadines,Emerging and Developing Economies,VCT
+169,Sudan,Emerging and Developing Economies,SDN
+170,Suriname,Emerging and Developing Economies,SUR
+171,Syria,Emerging and Developing Economies,SYR
+172,Tajikistan,Emerging and Developing Economies,TJK
+173,Tanzania,Emerging and Developing Economies,TZA
+174,Thailand,Emerging and Developing Economies,THA
+175,Timor-Leste,Emerging and Developing Economies,TLS
+176,Togo,Emerging and Developing Economies,TGO
+177,Tonga,Emerging and Developing Economies,TON
+178,Trinidad and Tobago,Emerging and Developing Economies,TTO
+179,Tunisia,Emerging and Developing Economies,TUN
+180,Turkey,Emerging and Developing Economies,TUR
+181,Turkmenistan,Emerging and Developing Economies,TKM
+182,Tuvalu,Emerging and Developing Economies,TUV
+183,Uganda,Emerging and Developing Economies,UGA
+184,Ukraine,Emerging and Developing Economies,UKR
+185,United Arab Emirates,Emerging and Developing Economies,ARE
+186,Uruguay,Emerging and Developing Economies,URY
+187,Uzbekistan,Emerging and Developing Economies,UZB
+188,Vanuatu,Emerging and Developing Economies,VUT
+189,Venezuela,Emerging and Developing Economies,VEN
+190,Vietnam,Emerging and Developing Economies,VNM
+191,Yemen,Emerging and Developing Economies,YEM
+192,Zambia,Emerging and Developing Economies,ZMB
+193,Zimbabwe,Emerging and Developing Economies,ZWE
