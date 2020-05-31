@@ -1,0 +1,251 @@
+ISO2,ISO3,Country,Region,Classification
+DZ,DZA,Algeria,Africa,Developing
+AO,AGO,Angola,Africa,Developing
+BJ,BEN,Benin,Africa,Developing
+BW,BWA,Botswana,Africa,Developing
+IO,IOT,British Indian Ocean Territory,Africa,Developing
+BF,BFA,Burkina Faso,Africa,Developing
+BI,BDI,Burundi,Africa,Developing
+CI,CIV,Côte d’Ivoire,Africa,Developing
+CV,CPV,Cabo Verde,Africa,Developing
+CM,CMR,Cameroon,Africa,Developing
+CF,CAF,Central African Republic,Africa,Developing
+TD,TCD,Chad,Africa,Developing
+KM,COM,Comoros,Africa,Developing
+CG,COG,Congo,Africa,Developing
+CD,COD,Democratic Republic of the Congo,Africa,Developing
+DJ,DJI,Djibouti,Africa,Developing
+EG,EGY,Egypt,Africa,Developing
+GQ,GNQ,Equatorial Guinea,Africa,Developing
+ER,ERI,Eritrea,Africa,Developing
+SZ,SWZ,Eswatini,Africa,Developing
+ET,ETH,Ethiopia,Africa,Developing
+TF,ATF,French Southern Territories,Africa,Developing
+GA,GAB,Gabon,Africa,Developing
+GM,GMB,Gambia,Africa,Developing
+GH,GHA,Ghana,Africa,Developing
+GN,GIN,Guinea,Africa,Developing
+GW,GNB,Guinea-Bissau,Africa,Developing
+KE,KEN,Kenya,Africa,Developing
+LS,LSO,Lesotho,Africa,Developing
+LR,LBR,Liberia,Africa,Developing
+LY,LBY,Libya,Africa,Developing
+MG,MDG,Madagascar,Africa,Developing
+MW,MWI,Malawi,Africa,Developing
+ML,MLI,Mali,Africa,Developing
+MR,MRT,Mauritania,Africa,Developing
+MU,MUS,Mauritius,Africa,Developing
+YT,MYT,Mayotte,Africa,Developing
+MA,MAR,Morocco,Africa,Developing
+MZ,MOZ,Mozambique,Africa,Developing
+NA,NAM,Namibia,Africa,Developing
+NE,NER,Niger,Africa,Developing
+NG,NGA,Nigeria,Africa,Developing
+RE,REU,Réunion,Africa,Developing
+RW,RWA,Rwanda,Africa,Developing
+SH,SHN,Saint Helena,Africa,Developing
+ST,STP,Sao Tome and Principe,Africa,Developing
+SN,SEN,Senegal,Africa,Developing
+SC,SYC,Seychelles,Africa,Developing
+SL,SLE,Sierra Leone,Africa,Developing
+SO,SOM,Somalia,Africa,Developing
+ZA,ZAF,South Africa,Africa,Developing
+SS,SSD,South Sudan,Africa,Developing
+SD,SDN,Sudan,Africa,Developing
+TG,TGO,Togo,Africa,Developing
+TN,TUN,Tunisia,Africa,Developing
+UG,UGA,Uganda,Africa,Developing
+TZ,TZA,United Republic of Tanzania,Africa,Developing
+EH,ESH,Western Sahara,Africa,Developing
+ZM,ZMB,Zambia,Africa,Developing
+ZW,ZWE,Zimbabwe,Africa,Developing
+BD,BGD,Bangladesh,Asia,Developing
+BT,BTN,Bhutan,Asia,Developing
+BN,BRN,Brunei Darussalam,Asia,Developing
+KH,KHM,Cambodia,Asia,Developing
+CN,CHN,China,Asia,Developing
+HK,HKG,"China, Hong Kong Special Administrative Region",Asia,Developing
+MO,MAC,"China, Macao Special Administrative Region",Asia,Developing
+KP,PRK,Democratic People's Republic of Korea,Asia,Developing
+IN,IND,India,Asia,Developing
+ID,IDN,Indonesia,Asia,Developing
+JP,JPN,Japan,Asia,Developed
+LA,LAO,Lao People's Democratic Republic,Asia,Developing
+MY,MYS,Malaysia,Asia,Developing
+MV,MDV,Maldives,Asia,Developing
+MN,MNG,Mongolia,Asia,Developing
+MM,MMR,Myanmar,Asia,Developing
+NP,NPL,Nepal,Asia,Developing
+PK,PAK,Pakistan,Asia,Developing
+PH,PHL,Philippines,Asia,Developing
+KR,KOR,Republic of Korea,Asia,Developing
+SG,SGP,Singapore,Asia,Developing
+LK,LKA,Sri Lanka,Asia,Developing
+TH,THA,Thailand,Asia,Developing
+TL,TLS,Timor-Leste,Asia,Developing
+VN,VNM,Viet Nam,Asia,Developing
+AX,ALA,Åland Islands,Europe,Developed
+AL,ALB,Albania,Europe,Developing
+AD,AND,Andorra,Europe,Developed
+AM,ARM,Armenia,Europe,Developing
+AT,AUT,Austria,Europe,Developed
+AZ,AZE,Azerbaijan,Europe,Developing
+BY,BLR,Belarus,Europe,Developing
+BE,BEL,Belgium,Europe,Developed
+BA,BIH,Bosnia and Herzegovina,Europe,Developing
+BG,BGR,Bulgaria,Europe,Developed
+HR,HRV,Croatia,Europe,Developed
+CY,CYP,Cyprus,Europe,Developed
+CZ,CZE,Czechia,Europe,Developed
+DK,DNK,Denmark,Europe,Developed
+EE,EST,Estonia,Europe,Developed
+FO,FRO,Faroe Islands,Europe,Developed
+FI,FIN,Finland,Europe,Developed
+FR,FRA,France,Europe,Developed
+GE,GEO,Georgia,Europe,Developing
+DE,DEU,Germany,Europe,Developed
+GI,GIB,Gibraltar,Europe,Developed
+GR,GRC,Greece,Europe,Developed
+GG,GGY,Guernsey,Europe,Developed
+VA,VAT,Holy See,Europe,Developed
+HU,HUN,Hungary,Europe,Developed
+IS,ISL,Iceland,Europe,Developed
+IE,IRL,Ireland,Europe,Developed
+IM,IMN,Isle of Man,Europe,Developed
+IT,ITA,Italy,Europe,Developed
+JE,JEY,Jersey,Europe,Developed
+KZ,KAZ,Kazakhstan,Europe,Developing
+XK,XKX,Kosovo,Europe,Developing
+KG,KGZ,Kyrgyzstan,Europe,Developing
+LV,LVA,Latvia,Europe,Developed
+LI,LIE,Liechtenstein,Europe,Developed
+LT,LTU,Lithuania,Europe,Developed
+LU,LUX,Luxembourg,Europe,Developed
+MT,MLT,Malta,Europe,Developed
+MC,MCO,Monaco,Europe,Developed
+ME,MNE,Montenegro,Europe,Developing
+NL,NLD,Netherlands,Europe,Developed
+MK,MKD,North Macedonia,Europe,Developing
+NO,NOR,Norway,Europe,Developed
+PL,POL,Poland,Europe,Developed
+PT,PRT,Portugal,Europe,Developed
+MD,MDA,Republic of Moldova,Europe,Developing
+RO,ROU,Romania,Europe,Developed
+RU,RUS,Russian Federation,Europe,Developing
+SM,SMR,San Marino,Europe,Developed
+RS,SRB,Serbia,Europe,Developing
+SK,SVK,Slovakia,Europe,Developed
+SI,SVN,Slovenia,Europe,Developed
+ES,ESP,Spain,Europe,Developed
+SJ,SJM,Svalbard and Jan Mayen Islands,Europe,Developed
+SE,SWE,Sweden,Europe,Developed
+CH,CHE,Switzerland,Europe,Developed
+TJ,TJK,Tajikistan,Europe,Developing
+TM,TKM,Turkmenistan,Europe,Developing
+UA,UKR,Ukraine,Europe,Developing
+GB,GBR,United Kingdom of Great Britain and Northern Ireland,Europe,Developed
+UZ,UZB,Uzbekistan,Europe,Developing
+AI,AIA,Anguilla,Latin America and Caribbean,Developing
+AG,ATG,Antigua and Barbuda,Latin America and Caribbean,Developing
+AR,ARG,Argentina,Latin America and Caribbean,Developing
+AW,ABW,Aruba,Latin America and Caribbean,Developing
+BS,BHS,Bahamas,Latin America and Caribbean,Developing
+BB,BRB,Barbados,Latin America and Caribbean,Developing
+BZ,BLZ,Belize,Latin America and Caribbean,Developing
+BO,BOL,Bolivia (Plurinational State of),Latin America and Caribbean,Developing
+BQ,BES,"Bonaire, Sint Eustatius and Saba",Latin America and Caribbean,Developing
+BV,BVT,Bouvet Island,Latin America and Caribbean,Developing
+BR,BRA,Brazil,Latin America and Caribbean,Developing
+VG,VGB,British Virgin Islands,Latin America and Caribbean,Developing
+KY,CYM,Cayman Islands,Latin America and Caribbean,Developing
+CL,CHL,Chile,Latin America and Caribbean,Developing
+CO,COL,Colombia,Latin America and Caribbean,Developing
+CR,CRI,Costa Rica,Latin America and Caribbean,Developing
+CU,CUB,Cuba,Latin America and Caribbean,Developing
+CW,CUW,Curaçao,Latin America and Caribbean,Developing
+DM,DMA,Dominica,Latin America and Caribbean,Developing
+DO,DOM,Dominican Republic,Latin America and Caribbean,Developing
+EC,ECU,Ecuador,Latin America and Caribbean,Developing
+SV,SLV,El Salvador,Latin America and Caribbean,Developing
+FK,FLK,Falkland Islands (Malvinas),Latin America and Caribbean,Developing
+GF,GUF,French Guiana,Latin America and Caribbean,Developing
+GD,GRD,Grenada,Latin America and Caribbean,Developing
+GP,GLP,Guadeloupe,Latin America and Caribbean,Developing
+GT,GTM,Guatemala,Latin America and Caribbean,Developing
+GY,GUY,Guyana,Latin America and Caribbean,Developing
+HT,HTI,Haiti,Latin America and Caribbean,Developing
+HN,HND,Honduras,Latin America and Caribbean,Developing
+JM,JAM,Jamaica,Latin America and Caribbean,Developing
+MQ,MTQ,Martinique,Latin America and Caribbean,Developing
+MX,MEX,Mexico,Latin America and Caribbean,Developing
+MS,MSR,Montserrat,Latin America and Caribbean,Developing
+NI,NIC,Nicaragua,Latin America and Caribbean,Developing
+PA,PAN,Panama,Latin America and Caribbean,Developing
+PY,PRY,Paraguay,Latin America and Caribbean,Developing
+PE,PER,Peru,Latin America and Caribbean,Developing
+PR,PRI,Puerto Rico,Latin America and Caribbean,Developing
+BL,BLM,Saint Barthélemy,Latin America and Caribbean,Developing
+KN,KNA,Saint Kitts and Nevis,Latin America and Caribbean,Developing
+LC,LCA,Saint Lucia,Latin America and Caribbean,Developing
+MF,MAF,Saint Martin (French Part),Latin America and Caribbean,Developing
+VC,VCT,Saint Vincent and the Grenadines,Latin America and Caribbean,Developing
+SX,SXM,Sint Maarten (Dutch part),Latin America and Caribbean,Developing
+GS,SGS,South Georgia and the South Sandwich Islands,Latin America and Caribbean,Developing
+SR,SUR,Suriname,Latin America and Caribbean,Developing
+TT,TTO,Trinidad and Tobago,Latin America and Caribbean,Developing
+TC,TCA,Turks and Caicos Islands,Latin America and Caribbean,Developing
+VI,VIR,United States Virgin Islands,Latin America and Caribbean,Developing
+UY,URY,Uruguay,Latin America and Caribbean,Developing
+VE,VEN,Venezuela (Bolivarian Republic of),Latin America and Caribbean,Developing
+AF,AFG,Afghanistan,Middle East,Developing
+BH,BHR,Bahrain,Middle East,Developing
+IR,IRN,Iran (Islamic Republic of),Middle East,Developing
+IQ,IRQ,Iraq,Middle East,Developing
+IL,ISR,Israel,Middle East,Developed
+JO,JOR,Jordan,Middle East,Developing
+KW,KWT,Kuwait,Middle East,Developing
+LB,LBN,Lebanon,Middle East,Developing
+OM,OMN,Oman,Middle East,Developing
+QA,QAT,Qatar,Middle East,Developing
+SA,SAU,Saudi Arabia,Middle East,Developing
+PS,PSE,State of Palestine,Middle East,Developing
+SY,SYR,Syrian Arab Republic,Middle East,Developing
+TR,TUR,Turkey,Middle East,Developing
+AE,ARE,United Arab Emirates,Middle East,Developing
+YE,YEM,Yemen,Middle East,Developing
+BM,BMU,Bermuda,North America,Developed
+CA,CAN,Canada,North America,Developed
+GL,GRL,Greenland,North America,Developed
+PM,SPM,Saint Pierre and Miquelon,North America,Developed
+US,USA,United States of America,North America,Developed
+AS,ASM,American Samoa,Oceania,Developing
+AU,AUS,Australia,Oceania,Developed
+CX,CXR,Christmas Island,Oceania,Developed
+CC,CCK,Cocos (Keeling) Islands,Oceania,Developed
+CK,COK,Cook Islands,Oceania,Developing
+FJ,FJI,Fiji,Oceania,Developing
+PF,PYF,French Polynesia,Oceania,Developing
+GU,GUM,Guam,Oceania,Developing
+HM,HMD,Heard Island and McDonald Islands,Oceania,Developed
+KI,KIR,Kiribati,Oceania,Developing
+MH,MHL,Marshall Islands,Oceania,Developing
+FM,FSM,Micronesia (Federated States of),Oceania,Developing
+NR,NRU,Nauru,Oceania,Developing
+NC,NCL,New Caledonia,Oceania,Developing
+NZ,NZL,New Zealand,Oceania,Developed
+NU,NIU,Niue,Oceania,Developing
+NF,NFK,Norfolk Island,Oceania,Developed
+MP,MNP,Northern Mariana Islands,Oceania,Developing
+PW,PLW,Palau,Oceania,Developing
+PG,PNG,Papua New Guinea,Oceania,Developing
+PN,PCN,Pitcairn,Oceania,Developing
+WS,WSM,Samoa,Oceania,Developing
+SB,SLB,Solomon Islands,Oceania,Developing
+TK,TKL,Tokelau,Oceania,Developing
+TO,TON,Tonga,Oceania,Developing
+TV,TUV,Tuvalu,Oceania,Developing
+UM,UMI,United States Minor Outlying Islands,Oceania,Developing
+VU,VUT,Vanuatu,Oceania,Developing
+WF,WLF,Wallis and Futuna Islands,Oceania,Developing
+Other*,Other*,Other*,Other*,Other*
+AQ,ATA,Antarctica,,
