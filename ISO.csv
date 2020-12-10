@@ -1,37 +1,37 @@
-English short name,French short name,Alpha-2 code,Alpha-3 code,Numeric
-Afghanistan,Afghanistan (l'),AF,AFG,004
-Albania,Albanie (l'),AL,ALB,008
-Algeria,Algérie (l'),DZ,DZA,012
-American Samoa,Samoa américaines (les),AS,ASM,016
-Andorra,Andorre (l'),AD,AND,020
-Angola,Angola (l'),AO,AGO,024
+﻿English short name,French short name,Alpha-2 code,Alpha-3 code,Numeric
+Afghanistan,Afghanistan (l'),AF,AFG,4
+Albania,Albanie (l'),AL,ALB,8
+Algeria,Algérie (l'),DZ,DZA,12
+American Samoa,Samoa américaines (les),AS,ASM,16
+Andorra,Andorre (l'),AD,AND,20
+Angola,Angola (l'),AO,AGO,24
 Anguilla,Anguilla,AI,AIA,660
-Antarctica,Antarctique (l'),AQ,ATA,010
-Antigua and Barbuda,Antigua-et-Barbuda,AG,ATG,028
-Argentina,Argentine (l'),AR,ARG,032
-Armenia,Arménie (l'),AM,ARM,051
+Antarctica,Antarctique (l'),AQ,ATA,10
+Antigua and Barbuda,Antigua-et-Barbuda,AG,ATG,28
+Argentina,Argentine (l'),AR,ARG,32
+Armenia,Arménie (l'),AM,ARM,51
 Aruba,Aruba,AW,ABW,533
-Australia,Australie (l'),AU,AUS,036
-Austria,Autriche (l'),AT,AUT,040
-Azerbaijan,Azerbaïdjan (l'),AZ,AZE,031
-Bahamas (the),Bahamas (les),BS,BHS,044
-Bahrain,Bahreïn,BH,BHR,048
-Bangladesh,Bangladesh (le),BD,BGD,050
-Barbados,Barbade (la),BB,BRB,052
+Australia,Australie (l'),AU,AUS,36
+Austria,Autriche (l'),AT,AUT,40
+Azerbaijan,Azerbaïdjan (l'),AZ,AZE,31
+Bahamas (the),Bahamas (les),BS,BHS,44
+Bahrain,Bahreïn,BH,BHR,48
+Bangladesh,Bangladesh (le),BD,BGD,50
+Barbados,Barbade (la),BB,BRB,52
 Belarus,Bélarus (le),BY,BLR,112
-Belgium,Belgique (la),BE,BEL,056
-Belize,Belize (le),BZ,BLZ,084
+Belgium,Belgique (la),BE,BEL,56
+Belize,Belize (le),BZ,BLZ,84
 Benin,Bénin (le),BJ,BEN,204
-Bermuda,Bermudes (les),BM,BMU,060
-Bhutan,Bhoutan (le),BT,BTN,064
-Bolivia (Plurinational State of),Bolivie (État plurinational de),BO,BOL,068
+Bermuda,Bermudes (les),BM,BMU,60
+Bhutan,Bhoutan (le),BT,BTN,64
+Bolivia (Plurinational State of),Bolivie (État plurinational de),BO,BOL,68
 "Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba",BQ,BES,535
-Bosnia and Herzegovina,Bosnie-Herzégovine (la),BA,BIH,070
-Botswana,Botswana (le),BW,BWA,072
-Bouvet Island,Bouvet (l'Île),BV,BVT,074
-Brazil,Brésil (le),BR,BRA,076
-British Indian Ocean Territory (the),Indien (le Territoire britannique de l'océan),IO,IOT,086
-Brunei Darussalam,Brunéi Darussalam (le),BN,BRN,096
+Bosnia and Herzegovina,Bosnie-Herzégovine (la),BA,BIH,70
+Botswana,Botswana (le),BW,BWA,72
+Bouvet Island,Bouvet (l'Île),BV,BVT,74
+Brazil,Brésil (le),BR,BRA,76
+British Indian Ocean Territory (the),Indien (le Territoire britannique de l'océan),IO,IOT,86
+Brunei Darussalam,Brunéi Darussalam (le),BN,BRN,96
 Bulgaria,Bulgarie (la),BG,BGR,100
 Burkina Faso,Burkina Faso (le),BF,BFA,854
 Burundi,Burundi (le),BI,BDI,108
@@ -39,13 +39,13 @@ Cabo Verde,Cabo Verde,CV,CPV,132
 Cambodia,Cambodge (le),KH,KHM,116
 Cameroon,Cameroun (le),CM,CMR,120
 Canada,Canada (le),CA,CAN,124
-Cayman Islands (the),Caïmans (les Îles),KY,CYM,136
+Cayman Islands (the),Caïmans (les Îles),KY,CYM,136
 Central African Republic (the),République centrafricaine (la),CF,CAF,140
 Chad,Tchad (le),TD,TCD,148
 Chile,Chili (le),CL,CHL,152
 China,Chine (la),CN,CHN,156
 Christmas Island,Christmas (l'Île),CX,CXR,162
-Cocos (Keeling) Islands (the),Cocos (les Îles)/ Keeling (les Îles),CC,CCK,166
+Cocos (Keeling) Islands (the),Cocos (les Îles)/ Keeling (les Îles),CC,CCK,166
 Colombia,Colombie (la),CO,COL,170
 Comoros (the),Comores (les),KM,COM,174
 Congo (the Democratic Republic of the),Congo (la République démocratique du),CD,COD,180
@@ -61,7 +61,7 @@ Côte d'Ivoire,Côte d'Ivoire (la),CI,CIV,384
 Denmark,Danemark (le),DK,DNK,208
 Djibouti,Djibouti,DJ,DJI,262
 Dominica,Dominique (la),DM,DMA,212
-Dominican Republic (the),dominicaine (la République),DO,DOM,214
+Dominican Republic (the),dominicaine (la République),DO,DOM,214
 Ecuador,Équateur (l'),EC,ECU,218
 Egypt,Égypte (l'),EG,EGY,818
 El Salvador,El Salvador,SV,SLV,222
@@ -75,7 +75,7 @@ Faroe Islands (the),Féroé (les Îles),FO,FRO,234
 Fiji,Fidji (les),FJ,FJI,242
 Finland,Finlande (la),FI,FIN,246
 France,France (la),FR,FRA,250
-French Guiana,Guyane française (la ),GF,GUF,254
+French Guiana,Guyane française (la ),GF,GUF,254
 French Polynesia,Polynésie française (la),PF,PYF,258
 French Southern Territories (the),Terres australes françaises (les),TF,ATF,260
 Gabon,Gabon (le),GA,GAB,266
@@ -116,7 +116,7 @@ Jordan,Jordanie (la),JO,JOR,400
 Kazakhstan,Kazakhstan (le),KZ,KAZ,398
 Kenya,Kenya (le),KE,KEN,404
 Kiribati,Kiribati,KI,KIR,296
-Korea (the Democratic People's Republic of),Corée (la République populaire démocratique de),KP,PRK,408
+Korea (the Democratic People's Republic of),Corée (la République populaire démocratique de),KP,PRK,408
 Korea (the Republic of),Corée (la République de),KR,KOR,410
 Kuwait,Koweït (le),KW,KWT,414
 Kyrgyzstan,Kirghizistan (le),KG,KGZ,417
@@ -202,7 +202,7 @@ Singapore,Singapour,SG,SGP,702
 Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),SX,SXM,534
 Slovakia,Slovaquie (la),SK,SVK,703
 Slovenia,Slovénie (la),SI,SVN,705
-Solomon Islands,Salomon (les Îles),SB,SLB,090
+Solomon Islands,Salomon (les Îles),SB,SLB,90
 Somalia,Somalie (la),SO,SOM,706
 South Africa,Afrique du Sud (l'),ZA,ZAF,710
 South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud (la),GS,SGS,239
@@ -240,7 +240,7 @@ Uzbekistan,Ouzbékistan (l'),UZ,UZB,860
 Vanuatu,Vanuatu (le),VU,VUT,548
 Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),VE,VEN,862
 Viet Nam,Viet Nam (le),VN,VNM,704
-Virgin Islands (British),Vierges britanniques (les Îles),VG,VGB,092
+Virgin Islands (British),Vierges britanniques (les Îles),VG,VGB,92
 Virgin Islands (U.S.),Vierges des États-Unis (les Îles),VI,VIR,850
 Wallis and Futuna,Wallis-et-Futuna,WF,WLF,876
 Western Sahara*,Sahara occidental (le)*,EH,ESH,732
